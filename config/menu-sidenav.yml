@@ -1,2 +1,6 @@
 menu:
-  mainmenu: []
+  mainmenu:
+  - identifier: 4719b9a8-fc37-4cb6-b92b-f446ac38cffd
+    name: PDF
+    url: content/et-un-autre.md
+    weight: 0
