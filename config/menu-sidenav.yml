@@ -4,3 +4,8 @@ menu:
     name: PDF
     url: content/et-un-autre.md
     weight: 0
+  - identifier: 6d73c89a-442d-4764-9ed8-a9c7c86bebc1
+    name: ASDF
+    parent: 4719b9a8-fc37-4cb6-b92b-f446ac38cffd
+    url: content/pdfffff.md
+    weight: 0
